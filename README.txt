@@ -1,3 +1,6 @@
+Packages to install:
+pip install flask flask-sqlalchemy
+
 To run the server on localhost:
 python main.py
 
